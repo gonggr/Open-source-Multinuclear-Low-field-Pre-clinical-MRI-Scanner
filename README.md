@@ -1,2 +1,11 @@
 Low-field MRI (B0 ≤ 0.2 T) is emerging as a technology with the potential to revolutionize clinical diagnostics and patient monitoring. The reduction in magnetic field strength comes along with a decrement of the scanners cost and the infrastructure required for their operation. This, in turn, enables the development of compact, portable systems that extends imaging capabilities to locations and scenarios that were previously inaccessible. This democratization has empowered research groups worldwide to design and build their own scanners, resulting in a surge of new devices. However, the majority of low-field scanners are optimized for human studies, which limits their application in pre-clinical research and constrains the testing and development of contrast agents tailored for low-field regimes. In particular, hyperpolarized agents hold considerable promise for low-field MRI due to their capacity to enhance signal and provide metabolic imaging of living systems. This signals enhancement counteracts the inherently low signal-to-noise ratio of thermally polarized studies which is the main limitation of low-field MRI. To exploit this potential, hyperpolarization studies frequently require the detection of X-nuclei, such as 13C and 15N, thereby emphasizing the need for versatile, multinuclear pre-clinical scanners. 	
 In this study, we present an open-source multinuclear low-field MRI scanner that has been specifically designed for hyperpolarized pre-clinical research. The device operates at 66 mT, and allows the detection of 1H, 23Na, 13C, and 15N nuclei. Comprehensive documentation and complete CAD designs are provided to facilitate replication and adaptation by the research community. To illustrate the performance of the system, the results of the acquisition of NMR spectra from each nucleus is presented, as well as the first images obtained with the scanner. This platform aims to bridge the gap in pre-clinical low-field MRI, enabling rigorous in vivo testing of novel contrast agents and supporting broader innovation in the field.
+
+The STL files includes the CAD designs for the following components:
+1) Main magnet.
+2) Gradient and shimming coils.
+3) 1H & X-nuclei transreceiver RF coils.
+4) Supports for assembling the coil setup.
+
+The architecture and capacitors values used for the RLC circuits it is also available.
+

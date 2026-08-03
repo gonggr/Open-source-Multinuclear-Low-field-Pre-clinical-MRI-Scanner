@@ -17,6 +17,9 @@ The architecture and capacitors values used for the RLC circuits it is also avai
 Contact: Dr. Gonzalo Rodriguez to gonzalogabriel.rodriguez@mpinat.mpg.de
 
 REFERENCES
+Open‐Source Multinuclear Low‐Field Preclinical MRI Scanner
+Gonzalo G Rodriguez, Sergey Korchak, Charlotte von Petersdorff‐Campen, Oscar Sucre, Jan Felger, Ruhuai Mei, Stefan Glöggler
+First published: 27 April 2026 https://doi.org/10.1002/nbm.70291
 
 Biological J-Coupling Spectroscopy at Low Magnetic Field
 Gonzalo G. Rodriguez, Charlotte von Petersdorff-Campen, Sergey Korchak, Oscar Sucre, Maria D. Santi, Josef Elsasser, Ruhuai Mei, Lisa M. Fries, Jan Felger, Andrea Markus, Frauke Alves, Stefan Glöggler

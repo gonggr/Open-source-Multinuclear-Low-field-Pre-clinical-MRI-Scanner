@@ -19,13 +19,19 @@ Contact: Dr. Gonzalo Rodriguez to gonzalogabriel.rodriguez@mpinat.mpg.de
 REFERENCES
 
 Open‐Source Multinuclear Low‐Field Preclinical MRI Scanner
+
 Gonzalo G Rodriguez, Sergey Korchak, Charlotte von Petersdorff‐Campen, Oscar Sucre, Jan Felger, Ruhuai Mei, Stefan Glöggler
+
 First published: 27 April 2026 https://doi.org/10.1002/nbm.70291
 
 Biological J-Coupling Spectroscopy at Low Magnetic Field
+
 Gonzalo G. Rodriguez, Charlotte von Petersdorff-Campen, Sergey Korchak, Oscar Sucre, Maria D. Santi, Josef Elsasser, Ruhuai Mei, Lisa M. Fries, Jan Felger, Andrea Markus, Frauke Alves, Stefan Glöggler
+
 First published: 31 July 2025 https://doi.org/10.1002/smsc.202500268
 
 15 N Reaction Monitoring at Low and Inhomogeneous Magnetic Fields Enabled by Hyperpolarization With Parahydrogen
+
 Dr. Gonzalo Gabriel Rodriguez, Dr. Ruhuai Mei, Lisa Maria Fries, Dr. Stefan Glöggler
+
 First published: 04 November 2025 https://doi.org/10.1002/chem.202503018

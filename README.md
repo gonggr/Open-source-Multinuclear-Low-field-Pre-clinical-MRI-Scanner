@@ -36,5 +36,6 @@ Dr. Gonzalo Gabriel Rodriguez, Dr. Ruhuai Mei, Lisa Maria Fries, Dr. Stefan Glö
 
 First published: 04 November 2025 https://doi.org/10.1002/chem.202503018
 
-Funding
+FUNDING
+
 This study was supported by the European Research Council through the Marie Curie Action (101150649), the European Research Council (949180), Max-Planck-Gesellschaft, and Bosch-Forschungsstiftung.
